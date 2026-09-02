@@ -1,0 +1,16 @@
+export default {
+  background: "#0D1117",
+  surface: "#161B22",
+  surfaceAlt: "#1F2733",
+  primary: "#FF6B35",
+  primaryDark: "#E85A2A",
+  success: "#3FB950",
+  successBg: "#12351F",
+  warning: "#D29922",
+  warningBg: "#3A2B0B",
+  danger: "#F85149",
+  dangerBg: "#3A1414",
+  text: "#F0F6FC",
+  textMuted: "#8B949E",
+  border: "#30363D",
+};
