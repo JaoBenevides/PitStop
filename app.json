@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "PitStop Auto",
+    "slug": "pitstop-auto",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0D1117"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.pitstopauto.app"
+    },
+    "android": {
+      "package": "com.pitstopauto.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#0D1117"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
